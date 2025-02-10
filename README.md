@@ -25,7 +25,7 @@ A modern web-based car rental system built with vanilla JavaScript, featuring ca
 
 ## 🔴 Live Demo
 
-Check out the live demo: [Car Rental System Demo](https://jamalihassan0307.github.io/Car-Rental-System-zh)
+Check out the live: [Car Rental System Demo](https://jamalihassan0307.github.io/Car-Rental-System-zh)
 
 ### Demo Credentials
 

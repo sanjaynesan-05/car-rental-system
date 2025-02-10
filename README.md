@@ -6,10 +6,10 @@
     <a href="https://jamalihassan0307.github.io/Car-Rental-System-zh" target="_blank">
         <img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://web.facebook.com/profile.php?id=61558862693997" target="_blank">
         <img alt="" src="https://img.shields.io/badge/Facebook-1877F2?style=normal&logo=facebook&logoColor=white" style="vertical-align:center" />
     </a>
-    <a href="#" target="_blank">
+    <a href="https://www.linkedin.com/in/jamalihassan0307/" target="_blank">
         <img alt="" src="https://img.shields.io/badge/LinkedIn-0077B5?style=normal&logo=linkedin&logoColor=white" style="vertical-align:center" />
     </a>
 </p>

@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-    <a href="https://github.com/yourusername/car-rental-system" target="_blank">
+    <a href="https://jamalihassan0307.github.io/Car-Rental-System-zh" target="_blank">
         <img alt="" src="https://img.shields.io/badge/Website-EA4C89?style=normal&logo=dribbble&logoColor=white" style="vertical-align:center" />
     </a>
     <a href="#" target="_blank">
@@ -25,12 +25,12 @@ A modern web-based car rental system built with vanilla JavaScript, featuring ca
 
 ## 🔴 Live Demo
 
-Check out the live demo: [Car Rental System Demo](#)
+Check out the live demo: [Car Rental System Demo](https://jamalihassan0307.github.io/Car-Rental-System-zh)
 
 ### Demo Credentials
 
 - **Username:** demo
-- **Password:** demo123
+- **Password:** 1234
 
 ## 📸 Screenshots
 

@@ -109,7 +109,7 @@ function validateLogin(event) {
   const username = document.getElementById("username").value;
   const password = document.getElementById("password").value;
 
-  if (username === "Zohaibhassan" && password === "0404") {
+  if (username === "demo" && password === "1234") {
     localStorage.setItem("isLoggedIn", "true");
     window.location.href = "index.html";
   } else {
